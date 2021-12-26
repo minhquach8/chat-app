@@ -1,4 +1,5 @@
-# This application is learnt from https://youtu.be/jcOKU9f86XE by JavaScript Mastery.
+### Disclaimer
+- This application is learnt from https://youtu.be/jcOKU9f86XE by JavaScript Mastery.
 
 # Getting Started with Create React App
 
